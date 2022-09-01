@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nwattana?1337Badge=off" alt="nwattana's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/nwattana?1337Badge=off&UM6P=off" alt="nwattana's 42 stats" /></a>
