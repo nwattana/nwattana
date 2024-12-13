@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student at 42Bangkok
 --------------------
 
-I've been learning to code for a year, after switching careers. I started with python, but not I'm in C/C++ with 42Bangkok.
+I've been learning to code for a year, after switching careers. I started with python, but not I'm in C/C++ with 42Bangkok.  
+after that I've working as Backend developer using Django and nestJS
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [narin.tent.95@gmail.com](mailto:narin.tent.95@gmail.com)
